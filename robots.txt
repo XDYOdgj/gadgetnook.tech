@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gadgetnook.tech/sitemap.xml
